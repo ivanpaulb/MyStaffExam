@@ -1,0 +1,26 @@
+# Node modules
+node_modules/
+
+# Log files
+*.log
+
+# Build directories
+ios/build/
+android/app/build/
+
+# Cache directories
+.expo/
+.expo-shared/
+.vscode/
+
+# macOS files
+.DS_Store
+
+# Environment variables
+.env
+.env.*
+
+# React Native specific
+ios/Pods/
+*.keystore
+*.jks

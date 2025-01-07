@@ -1,0 +1,3 @@
+/Users/jobilitydev/Documents/MyStaffTest/MyStaffExam/android/app/.cxx/Debug/34s4m561/x86/CMakeFiles/appmodules.dir
+/Users/jobilitydev/Documents/MyStaffTest/MyStaffExam/android/app/.cxx/Debug/34s4m561/x86/CMakeFiles/edit_cache.dir
+/Users/jobilitydev/Documents/MyStaffTest/MyStaffExam/android/app/.cxx/Debug/34s4m561/x86/CMakeFiles/rebuild_cache.dir

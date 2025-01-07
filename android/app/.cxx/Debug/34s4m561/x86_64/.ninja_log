@@ -1,0 +1,19 @@
+# ninja log v5
+85	294	1736186777555576520	build.ninja	abcece1005a81c63
+4073	4357	1736186496236422694	/Users/jobilitydev/Documents/MyStaffTest/MyStaffExam/android/app/build/intermediates/cxx/Debug/34s4m561/obj/x86_64/libappmodules.so	df059f94578778ac
+11	4073	1736186495945138235	CMakeFiles/appmodules.dir/OnLoad.cpp.o	398e161c93c0e18
+10	3684	1736186495559615710	CMakeFiles/appmodules.dir/Users/jobilitydev/Documents/MyStaffTest/MyStaffExam/android/app/build/generated/autolinking/src/main/jni/autolinking.cpp.o	df42b7b59168aa9c
+1	93	0	/Users/jobilitydev/Documents/MyStaffTest/MyStaffExam/android/app/.cxx/Debug/34s4m561/x86_64/CMakeFiles/cmake.verify_globs	dbd6c699d22887d
+1	75	0	/Users/jobilitydev/Documents/MyStaffTest/MyStaffExam/android/app/.cxx/Debug/34s4m561/x86_64/CMakeFiles/cmake.verify_globs	dbd6c699d22887d
+0	69	0	/Users/jobilitydev/Documents/MyStaffTest/MyStaffExam/android/app/.cxx/Debug/34s4m561/x86_64/CMakeFiles/cmake.verify_globs	dbd6c699d22887d
+0	68	0	/Users/jobilitydev/Documents/MyStaffTest/MyStaffExam/android/app/.cxx/Debug/34s4m561/x86_64/CMakeFiles/cmake.verify_globs	dbd6c699d22887d
+1	76	0	/Users/jobilitydev/Documents/MyStaffTest/MyStaffExam/android/app/.cxx/Debug/34s4m561/x86_64/CMakeFiles/cmake.verify_globs	dbd6c699d22887d
+0	78	0	/Users/jobilitydev/Documents/MyStaffTest/MyStaffExam/android/app/.cxx/Debug/34s4m561/x86_64/CMakeFiles/cmake.verify_globs	dbd6c699d22887d
+0	74	0	/Users/jobilitydev/Documents/MyStaffTest/MyStaffExam/android/app/.cxx/Debug/34s4m561/x86_64/CMakeFiles/cmake.verify_globs	dbd6c699d22887d
+1	138	0	/Users/jobilitydev/Documents/MyStaffTest/MyStaffExam/android/app/.cxx/Debug/34s4m561/x86_64/CMakeFiles/cmake.verify_globs	dbd6c699d22887d
+1	73	0	/Users/jobilitydev/Documents/MyStaffTest/MyStaffExam/android/app/.cxx/Debug/34s4m561/x86_64/CMakeFiles/cmake.verify_globs	dbd6c699d22887d
+0	126	0	/Users/jobilitydev/Documents/MyStaffTest/MyStaffExam/android/app/.cxx/Debug/34s4m561/x86_64/CMakeFiles/cmake.verify_globs	dbd6c699d22887d
+25	278	0	/Users/jobilitydev/Documents/MyStaffTest/MyStaffExam/android/app/.cxx/Debug/34s4m561/x86_64/CMakeFiles/cmake.verify_globs	dbd6c699d22887d
+0	122	0	/Users/jobilitydev/Documents/MyStaffTest/MyStaffExam/android/app/.cxx/Debug/34s4m561/x86_64/CMakeFiles/cmake.verify_globs	dbd6c699d22887d
+0	69	0	/Users/jobilitydev/Documents/MyStaffTest/MyStaffExam/android/app/.cxx/Debug/34s4m561/x86_64/CMakeFiles/cmake.verify_globs	dbd6c699d22887d
+1	93	0	/Users/jobilitydev/Documents/MyStaffTest/MyStaffExam/android/app/.cxx/Debug/34s4m561/x86_64/CMakeFiles/cmake.verify_globs	dbd6c699d22887d
