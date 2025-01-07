@@ -95,7 +95,7 @@ const App = () => {
           slideDrawerOut();
           setCurrentScreen('UI EXAM');
         }} style={styles.drawerItem}>
-          <Text style={styles.drawerItemText}>UIede EXAM</Text>
+          <Text style={styles.drawerItemText}>UI EXAM</Text>
         </TouchableOpacity>
         <TouchableOpacity onPress={() => {
           slideDrawerOut();
